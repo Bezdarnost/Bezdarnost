@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">Computer Vision Machine Learning Engineer and Competitive programmer</h3>
+<h3 align="center">Computer Vision Engineer and Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **portfolio projects**
+- 🔭 I’m currently working on **AkylAI**
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Deep Learning projects**
 
 - 🤝 I’m looking for help with **Machine Learning projects or Competitive Programming**
 
