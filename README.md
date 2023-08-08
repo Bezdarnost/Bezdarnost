@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AkylAI**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Blind-Super-Resolution**
 
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 
