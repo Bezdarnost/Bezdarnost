@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Computer Vision Engineer and Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **AkylAI**
+- 🔭 I’m currently working on **Super Resolution paper, https://skycues.com/ and book**
 
-- 🌱 I’m currently learning **Blind-Super-Resolution**
+- 🌱 I’m currently learning **Super Resolution**
 
-- 👯 I’m looking to collaborate on **Deep Learning projects**
+- 👯 I’m looking to collaborate on **Computer Vision Papers**
 
 - 🤝 I’m looking for help with **Machine Learning projects or Competitive Programming**
 
